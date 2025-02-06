@@ -1,4 +1,4 @@
-# Nextjs_15
+# Nextjs_15 & React 19
 🚀 Next.js 15 & React 19: What’s New and Why It Matters
 Introduction
 Web development is evolving fast, and with the release of Next.js 15 and React 19, developers have access to powerful new features that enhance performance, flexibility, and developer experience. In this article, I’ll walk you through the latest updates and why they matter.
